@@ -1,0 +1,48 @@
+{
+  "author": {
+    "name": "Xiao Shen"
+  },
+  "bugs": {
+    "url": "https://github.com/xxoo/node-fswin/issues"
+  },
+  "dependencies": {},
+  "description": "nodejs fs extensions for windows",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "41d69f3e4aa255871099306dd08b7996aaab2b9b",
+    "tarball": "https://registry.npmjs.org/fswin/-/fswin-2.16.501.tgz"
+  },
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "homepage": "https://github.com/xxoo/node-fswin#readme",
+  "keywords": [
+    "native",
+    "fs",
+    "filesystem",
+    "watch",
+    "windows",
+    "wildcards",
+    "ntfs"
+  ],
+  "license": "BSD",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "xxoo",
+      "email": "dead.xx@gmail.com"
+    }
+  ],
+  "name": "fswin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxoo/node-fswin.git"
+  },
+  "scripts": {
+    "install": "node-gyp configure rebuild"
+  },
+  "version": "2.16.501"
+}
